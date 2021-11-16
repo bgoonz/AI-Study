@@ -15,7 +15,7 @@ PyHamcrest
 bs4
 awscli==1.16.35
 flask
-spacy==2.3.2
+spacy==2.3.7
 ray[tune]
 
 # PyTorch Theme
