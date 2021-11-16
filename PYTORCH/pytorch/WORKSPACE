@@ -20,9 +20,9 @@ http_archive(
 
 http_archive(
   name = "pybind11_bazel",
-  strip_prefix = "pybind11_bazel-7f397b5d2cc2434bbd651e096548f7b40c128044",
-  urls = ["https://github.com/pybind/pybind11_bazel/archive/7f397b5d2cc2434bbd651e096548f7b40c128044.zip"],
-  sha256 = "e4a9536f49d4a88e3c5a09954de49c4a18d6b1632c457a62d6ec4878c27f1b5b",
+  strip_prefix = "pybind11_bazel-992381ced716ae12122360b0fbadbc3dda436dbf",
+  urls = ["https://github.com/pybind/pybind11_bazel/archive/992381ced716ae12122360b0fbadbc3dda436dbf.zip"],
+  sha256 = "3dc6435bd41c058453efe102995ef084d0a86b0176fd6a67a6b7100a2e9a940e",
 )
 
 new_local_repository(
