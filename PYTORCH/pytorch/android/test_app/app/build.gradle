@@ -157,7 +157,7 @@ dependencies {
     aarImplementation 'com.facebook.soloader:nativeloader:0.8.0'
     aarImplementation 'com.facebook.fbjni:fbjni-java-only:0.0.3'
 
-    def camerax_version = "1.0.0-alpha05"
+    def camerax_version = "1.0.2"
     cameraImplementation "androidx.camera:camera-core:$camerax_version"
     cameraImplementation "androidx.camera:camera-camera2:$camerax_version"
     cameraImplementation 'com.google.android.material:material:1.0.0-beta01'
